@@ -234,7 +234,7 @@
         <repository>
             <id>nexus-public</id>
             <name>Nexus Repository</name>
-            <url>http://192.168.10.133:8081/repository/maven-public/</url>
+            <url>http://192.168.2.129:8081/repository/maven-public/</url>
             <snapshots>
                 <enabled>true</enabled>
             </snapshots>
